@@ -1,2 +1,2 @@
-# locomoción
+# procesamiento
 Un sitio académico
